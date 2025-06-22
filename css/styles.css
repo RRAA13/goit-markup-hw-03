@@ -195,7 +195,7 @@ img {
 
 /* team start */
 .team {
-    padding-bottom: 120px;
+    padding: 120px 0;
     background-color: #F4F4FD
 }
 
@@ -204,6 +204,7 @@ img {
     align-items: center;
     justify-content: center;
     gap: 24px;
+    margin-bottom: 72px;
 }
 
 .team-title {
@@ -225,13 +226,17 @@ img {
     text-align: center;
 }
 
+.team-item-list-block {
+    padding: 32px 0;
+}
+
 .team-item-list-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    padding-top: 32px;
+    margin-bottom: 8px;
     text-align: center;
 }
 
@@ -280,6 +285,7 @@ img {
 .portfolio-item-text-block {
     padding: 32px 16px; 
     border: 1px solid #e7e9fc;
+    border-top: none;
 }
 
 .portfolio-item-list-subtitle {
