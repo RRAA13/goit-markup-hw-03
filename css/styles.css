@@ -214,7 +214,8 @@ img {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    margin-bottom: 72px;
+    padding-top: 120px;
+    padding-bottom: 72px;
 }
 
 .team-item-list {
@@ -315,8 +316,8 @@ img {
 .footer-logo {
     color: #4d5ae5;
     line-height: 1.17;
-
-   
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .footer-logo .logo-part {
