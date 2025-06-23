@@ -192,7 +192,6 @@ img {
     align-items: center;
     justify-content: center;
     gap: 24px;
-    margin-bottom: 72px;
 }
 
 .team-title {
@@ -232,8 +231,6 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    padding-top: 8px;
-    padding-bottom: 32px;
     text-align: center;
 }
 /* team stop */
@@ -317,7 +314,6 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    padding-top: 16px;
     max-width: 264px;
 }
 /* footer stop */
